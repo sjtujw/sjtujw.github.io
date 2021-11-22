@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Jw's Blog
 subtitle: ''
-description: ''
+description: 'mark some notes so that easy to read everywhere!'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Ju Wei
+language: zh_CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://sjtujw.github.io'
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,3 +105,10 @@ deploy:
   type: git
   repo: https://github.com/sjtujw/sjtujw.github.io.git
   branch: main
+
+
+# 目录
+toc:1
+
+# 本人头像
+avatar: 
